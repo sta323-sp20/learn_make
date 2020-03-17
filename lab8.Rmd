@@ -1,7 +1,7 @@
 ---
-title: "Lab 8"
-author: "Shawn Santo"
-date: "02-28-20"
+title: "Lab 8 with Make"
+author: ""
+date: "03-23-20"
 output: 
   html_document:
     css: lab8.css
